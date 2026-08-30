@@ -1,0 +1,12 @@
+{
+  "kurum": "Uzatma Kablosundaki Son Boş Priz Enerji Piyasası Düzenleme Kurumu",
+  "kod": "EPDK-EV-2026/08",
+  "kit_priz_esigi": 1,
+  "utu_katsayi": 4.7,
+  "isinma_esigi": true,
+  "kartel_tanim": "iki cihaz bir prizde bakışırsa",
+  "oncelik_sirasi": ["telefon", "laptop", "lamba", "utu", "unutulmus_sarj"],
+  "yasaklar": ["patates", "üçlü priz üstüne üçlü priz", "ıslak elle fiş"],
+  "madde_7": "Son priz boş görünse de hukuken doludur.",
+  "madde_12": "Isınan kablo görüş bildirir, karar vermez."
+}
